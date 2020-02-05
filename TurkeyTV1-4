@@ -11,9 +11,9 @@
 <channels> 
 
 <channel> 
-<name>[B]Turkey TV 2[/B]</name> 
+<name>[B]Turkey VOD[/B]</name> 
 <thumbnail>https://ia801403.us.archive.org/29/items/turkey_202001/Turkey.jpg</thumbnail> 
-<externallink>  </externallink> 
+<externallink>https://raw.githubusercontent.com/kodifreak2020/TurkeyTV/master/TurkeyVOD_1.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
@@ -31,7 +31,7 @@
 <channel> 
 <name>[B]----- OFFLINE -----[/B]</name> 
 <thumbnail>https://ia801403.us.archive.org/29/items/turkey_202001/Turkey.jpg</thumbnail> 
-<externallink> </externallink> 
+<externallink></externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
