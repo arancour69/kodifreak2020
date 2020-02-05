@@ -3,8 +3,8 @@
 <channels> 
 <channel> 
 <name>[B]Poland TV[/B]</name> 
-<thumbnail>https://ia801504.us.archive.org/21/items/deflagge/DE_Flagge.jpg</thumbnail> 
-<externallink>  </externallink> 
+<thumbnail>https://ia801509.us.archive.org/23/items/plflagge1/PL_Flagge1.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/kodifreak2020/kodifreak2020/master/PolandTV1-4</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
@@ -12,7 +12,7 @@
 
 <channel> 
 <name>[B]Poland VOD - Movies[/B]</name> 
-<thumbnail>https://ia801504.us.archive.org/21/items/deflagge/DE_Flagge.jpg</thumbnail> 
+<thumbnail>https://ia801509.us.archive.org/23/items/plflagge1/PL_Flagge1.jpg</thumbnail> 
 <externallink>  </externallink> 
 <fanart></fanart> 
 <info></info> 
@@ -21,7 +21,7 @@
 
 <channel> 
 <name>[B]Poland VOD - Kids[/B]</name> 
-<thumbnail>https://ia801504.us.archive.org/21/items/deflagge/DE_Flagge.jpg</thumbnail> 
+<thumbnail>https://ia801509.us.archive.org/23/items/plflagge1/PL_Flagge1.jpg</thumbnail> 
 <externallink>  </externallink> 
 <fanart></fanart> 
 <info></info> 
@@ -30,7 +30,7 @@
 
 <channel> 
 <name>[B]Poland VOD - Series[/B]</name> 
-<thumbnail>https://ia801504.us.archive.org/21/items/deflagge/DE_Flagge.jpg</thumbnail> 
+<thumbnail>https://ia801509.us.archive.org/23/items/plflagge1/PL_Flagge1.jpg</thumbnail> 
 <externallink>  </externallink> 
 <fanart></fanart> 
 <info></info> 
