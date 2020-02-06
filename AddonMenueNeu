@@ -8,7 +8,17 @@
 <fanart></fanart>
 <info></info>
 </channel> 
-<channels> 
+<channels>
+
+<channels>
+<channel>
+<name>[B]Italy[/B]</name>
+<thumbnail>https://ia801505.us.archive.org/21/items/italy_202002/Italy.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodifreak2020/kodifreak2020/master/ItalyTV_1.m3u</externallink>
+<fanart></fanart>
+<info></info>
+</channel> 
+<channels>
 
 <channel> 
 <name>[B]Poland[/B]</name> 
