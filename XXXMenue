@@ -12,10 +12,19 @@
 <channels> 
 
 <channel> 
-<name>[B]XXX VOD[/B]</name> 
+<name>[B]XXX VOD 1[/B]</name> 
 <thumbnail>https://ia601409.us.archive.org/19/items/xxxlogo/XXX-Logo.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/kodifreak2020/XXX_TV_VOD/master/XXX_VOD.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
-<channels> 
+<channels>
+
+<channel> 
+<name>[B]XXX VOD 2[/B]</name> 
+<thumbnail>https://ia601409.us.archive.org/19/items/xxxlogo/XXX-Logo.jpg</thumbnail> 
+<externallink>https://downloads.kodiman.net/Legale%20TV%20Listen/xxxKodiman.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
