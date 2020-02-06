@@ -26,7 +26,17 @@
 <fanart></fanart>
 <info></info>
 </channel> 
-<channels> 
+<channels>
+
+<channels>
+<channel>
+<name>[B]USA[/B]</name>
+<thumbnail>https://ia801408.us.archive.org/23/items/usa_20200206/USA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodifreak2020/kodifreak2020/master/USA_TV_1.m3u</externallink>
+<fanart></fanart>
+<info></info>
+</channel> 
+<channels>
 
 <channel>
 <name>[B]XXX[/B]</name>
