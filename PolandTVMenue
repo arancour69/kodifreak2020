@@ -11,27 +11,27 @@
 <channels>  
 
 <channel> 
-<name>[B]Poland VOD - Kids[/B]</name> 
+<name>[B]Poland VOD - Kids ----- OFFLINE -----[/B]</name> 
 <thumbnail>https://ia801509.us.archive.org/23/items/plflagge1/PL_Flagge1.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/kodifreak2020/PolandTV-/master/PolandVOD_Kids_1.m3u</externallink> 
+<externallink>   </externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
 <channels> 
 
 <channel> 
-<name>[B]Poland VOD - Movies[/B]</name> 
+<name>[B]Poland VOD - Movies ----- OFFLINE -----[/B]</name> 
 <thumbnail>https://ia801509.us.archive.org/23/items/plflagge1/PL_Flagge1.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/kodifreak2020/PolandTV-/master/PolandMoviesVOD</externallink> 
+<externallink>   </externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
 <channels> 
 
 <channel> 
-<name>[B]Poland VOD - Series[/B]</name> 
+<name>[B]Poland VOD - Series ----- OFFLINE -----[/B]</name> 
 <thumbnail>https://ia801509.us.archive.org/23/items/plflagge1/PL_Flagge1.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/kodifreak2020/PolandTV-/master/PolandSeriesVOD</externallink> 
+<externallink>   </externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel>
