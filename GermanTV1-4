@@ -17,10 +17,19 @@
 <fanart></fanart> 
 <info></info> 
 </channel> 
-<channels> 
+<channels>
 
 <channel> 
-<name>[B]German TV 3[/B]</name>
+<name>[B]German TV 3[/B]</name> 
+<thumbnail>https://ia801401.us.archive.org/2/items/german1_202002/German_1.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/kodifreak2020/GermanTV/master/GermanTV_3.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channel> 
+<name>[B]German TV 4[/B]</name>
 <thumbnail>https://ia801401.us.archive.org/2/items/german1_202002/German_1.jpg</thumbnail> 
 <externallink>http://stream.nmbs.top/lists/Germany.m3u8</externallink> 
 <fanart></fanart> 
@@ -29,7 +38,7 @@
 <channels> 
 
 <channel> 
-<name>[B]German TV 4 - Pavoo[/B]</name> 
+<name>[B]German TV 5 - Pavoo[/B]</name> 
 <thumbnail>https://ia801401.us.archive.org/2/items/german1_202002/German_1.jpg</thumbnail> 
 <externallink>http://pavootv.com/PAVOOTV/germany/menu.xml</externallink> 
 <fanart></fanart> 
