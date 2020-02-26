@@ -10,6 +10,16 @@
 </channel> 
 <channels>
 
+<channels>
+<channel> 
+<name>[B]XXX TV 2[/B]</name>
+<thumbnail>https://ia601409.us.archive.org/19/items/xxxlogo/XXX-Logo.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/kodifreak2020/XXX_TV_VOD/master/XXX_TV_2.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
 <channel> 
 <name>[B]XXX VOD 1[/B]</name> 
 <thumbnail>https://ia601409.us.archive.org/19/items/xxxlogo/XXX-Logo.jpg</thumbnail> 
