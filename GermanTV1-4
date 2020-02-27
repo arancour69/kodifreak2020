@@ -3,7 +3,8 @@
 <channels> 
 <channel> 
 <name>[B]German TV 1[/B]</name>
-<thumbnail>https://ia801401.us.archive.org/2/items/german1_202002/German_1.jpg</thumbnail> 
+<thumbnail>https://ia801401.us.archive.org/2/items/german1_202002/German_1.jpg</thumbnail>
+<link>http://ignorame<link>
 <externallink>https://raw.githubusercontent.com/kilirushi/m3u/master/de.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
