@@ -30,6 +30,15 @@
 <channels>
 
 <channel> 
+<name>[B]Russia[/B]</name> 
+<thumbnail>https://ia801503.us.archive.org/34/items/russia_202002/Russia.png</thumbnail> 
+<externallink>http://urlcut.ru/FreeBestTV.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channel> 
 <name>[B]Spain[/B]</name> 
 <thumbnail>https://archive.org/download/Spanien/Spanien.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/kodifreak2020/kodifreak2020/master/SpanienTV_1.m3u</externallink> 
