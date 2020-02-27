@@ -4,7 +4,6 @@
 <channel> 
 <name>[B]German TV 1[/B]</name>
 <thumbnail>https://ia801401.us.archive.org/2/items/german1_202002/German_1.jpg</thumbnail>
-<link>http://ignorame<link>
 <externallink>https://raw.githubusercontent.com/kodifreak2020/GermanTV/master/GermanTV_1.m3u</externallink> 
 <fanart></fanart> 
 <info></info> 
@@ -45,4 +44,13 @@
 <fanart></fanart> 
 <info></info> 
 </channel> 
-<channels> 
+<channels>
+
+<channel> 
+<name>[B]German TV 6 - Test[/B]</name> 
+<thumbnail>https://ia801401.us.archive.org/2/items/german1_202002/German_1.jpg</thumbnail> 
+<externallink>http://185.53.163.214:8000/playlist.m3u8</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
