@@ -30,6 +30,15 @@
 <channels>
 
 <channel> 
+<name>[B]Portugal[/B]</name> 
+<thumbnail>https://ia801505.us.archive.org/6/items/portugal_202002/Portugal.jpg</thumbnail> 
+<externallink>http://62.203.143.51:9981/playlist.m3u8</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel> 
+<channels>
+
+<channel> 
 <name>[B]Russia[/B]</name> 
 <thumbnail>https://ia801503.us.archive.org/34/items/russia_202002/Russia.png</thumbnail> 
 <externallink>http://urlcut.ru/FreeBestTV.m3u</externallink> 
