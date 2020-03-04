@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Viajar" tvg-logo="" group-title="General Streams",ES: Viajar
-http://iptv4.ga:8080/live/espain/espain/2024.ts
+plugin://plugin.video.f4mTester/?name=TheSamsungFreak_TV&streamtype=TSDOWNLOADER&amp;url=http://iptv4.ga:8080/live/espain/espain/2024.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES: TVGA" tvg-logo="" group-title="General Streams",ES: TVGA
-http://iptv4.ga:8080/live/espain/espain/2022.ts
+plugin://plugin.video.f4mTester/?name=TheSamsungFreak_TV&streamtype=TSDOWNLOADER&amp;url=http://iptv4.ga:8080/live/espain/espain/2022.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES: TVE La2" tvg-logo="" group-title="General Streams",ES: TVE La2
 http://iptv4.ga:8080/live/espain/espain/2021.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES: TVE La1 Madrid" tvg-logo="" group-title="General Streams",ES: TVE La1 Madrid
