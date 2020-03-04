@@ -51,7 +51,7 @@
 <channel> 
 <name>[B]Russia[/B]</name> 
 <thumbnail>https://ia801503.us.archive.org/34/items/russia_202002/Russia.png</thumbnail> 
-<externallink>http://urlcut.ru/FreeBestTV.m3u</externallink> 
+<externallink>http://118.47.168.157:8080/playlist.m3u8</externallink> 
 <fanart></fanart> 
 <info></info> 
 </channel> 
