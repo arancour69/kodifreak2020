@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="UK: SKY NEWS" tvg-logo="" group-title="General Streams",UK: SKY NEWS
-http://iptv4.ga:8080/live/gb/gb/2221.ts
+plugin://plugin.video.f4mTester/?name=TheSamsungFreak_TV&streamtype=TSDOWNLOADER&amp;url=http://iptv4.ga:8080/live/gb/gb/2221.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK: SKY PRE ORDER 1" tvg-logo="" group-title="General Streams",UK: SKY PRE ORDER 1
-http://iptv4.ga:8080/live/gb/gb/2844.ts
+plugin://plugin.video.f4mTester/?name=TheSamsungFreak_TV&streamtype=TSDOWNLOADER&amp;url=http://iptv4.ga:8080/live/gb/gb/2844.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK: SKY PRE ORDER KIDS" tvg-logo="" group-title="General Streams",UK: SKY PRE ORDER KIDS
 http://iptv4.ga:8080/live/gb/gb/3139.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK: SKY STORE 1" tvg-logo="" group-title="General Streams",UK: SKY STORE 1
