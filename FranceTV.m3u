@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="FR | France O hd" tvg-logo="" group-title="General Streams",FR | France O hd
-http://iptv4.ga:8080/live/france/france/3207.ts
+plugin://plugin.video.f4mTester/?name=TheSamsungFreak_TV&streamtype=TSDOWNLOADER&amp;url=http://iptv4.ga:8080/live/france/france/3207.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR | France 2 HD" tvg-logo="" group-title="General Streams",FR | France 2 HD
-http://iptv4.ga:8080/live/france/france/3212.ts
+plugin://plugin.video.f4mTester/?name=TheSamsungFreak_TV&streamtype=TSDOWNLOADER&amp;url=http://iptv4.ga:8080/live/france/france/3212.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR | France 3 HD" tvg-logo="" group-title="General Streams",FR | France 3 HD
-http://iptv4.ga:8080/live/france/france/3210.ts
+plugin://plugin.video.f4mTester/?name=TheSamsungFreak_TV&streamtype=TSDOWNLOADER&amp;url=http://iptv4.ga:8080/live/france/france/3210.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR | FRANCE 4 HD" tvg-logo="" group-title="General Streams",FR | FRANCE 4 HD
 http://iptv4.ga:8080/live/france/france/3209.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR | France 5 HD" tvg-logo="" group-title="General Streams",FR | France 5 HD
