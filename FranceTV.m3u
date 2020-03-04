@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FR | France O hd" tvg-logo="" group-title="General Streams",FR | France O hd
+http://iptv4.ga:8080/live/france/france/3207.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | France 2 HD" tvg-logo="" group-title="General Streams",FR | France 2 HD
+http://iptv4.ga:8080/live/france/france/3212.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | France 3 HD" tvg-logo="" group-title="General Streams",FR | France 3 HD
+http://iptv4.ga:8080/live/france/france/3210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | FRANCE 4 HD" tvg-logo="" group-title="General Streams",FR | FRANCE 4 HD
+http://iptv4.ga:8080/live/france/france/3209.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | France 5 HD" tvg-logo="" group-title="General Streams",FR | France 5 HD
+http://iptv4.ga:8080/live/france/france/3208.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | FRANCE 24 HD" tvg-logo="" group-title="General Streams",FR | FRANCE 24 HD
+http://iptv4.ga:8080/live/france/france/3211.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TV5 MONDE HD" tvg-logo="" group-title="General Streams",FR | TV5 MONDE HD
+http://iptv4.ga:8080/live/france/france/3186.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | AB1 HD" tvg-logo="" group-title="General Streams",FR | AB1 HD
+http://iptv4.ga:8080/live/france/france/3227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TF1 FHD" tvg-logo="" group-title="General Streams",FR | TF1 FHD
+http://iptv4.ga:8080/live/france/france/3188.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | M6 HD" tvg-logo="" group-title="General Streams",FR | M6 HD
+http://iptv4.ga:8080/live/france/france/3203.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | W9 HD" tvg-logo="" group-title="General Streams",FR | W9 HD
+http://iptv4.ga:8080/live/france/france/3185.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | RTL 9 FHD" tvg-logo="" group-title="General Streams",FR | RTL 9 FHD
+http://iptv4.ga:8080/live/france/france/3189.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TFX HD" tvg-logo="" group-title="General Streams",FR | TFX HD
+http://iptv4.ga:8080/live/france/france/3221.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | OCS CHOC HD" tvg-logo="" group-title="General Streams",FR | OCS CHOC HD
+http://iptv4.ga:8080/live/france/france/3194.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | OCS CITY HD" tvg-logo="" group-title="General Streams",FR | OCS CITY HD
+http://iptv4.ga:8080/live/france/france/3193.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | OCS MAX HD" tvg-logo="" group-title="General Streams",FR | OCS MAX HD
+http://iptv4.ga:8080/live/france/france/3191.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | OCS GEANTS HD" tvg-logo="" group-title="General Streams",FR | OCS GEANTS HD
+http://iptv4.ga:8080/live/france/france/3192.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | MCM" tvg-logo="" group-title="General Streams",FR | MCM
+http://iptv4.ga:8080/live/france/france/3200.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | MTV FR" tvg-logo="" group-title="General Streams",FR | MTV FR
+http://iptv4.ga:8080/live/france/france/3199.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | M6 MUSIC" tvg-logo="" group-title="General Streams",FR | M6 MUSIC
+http://iptv4.ga:8080/live/france/france/3202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TIJI HD" tvg-logo="" group-title="General Streams",FR | TIJI HD
+http://iptv4.ga:8080/live/france/france/3187.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | MANGAS HD" tvg-logo="" group-title="General Streams",FR | MANGAS HD
+http://iptv4.ga:8080/live/france/france/3201.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | Gulli HD" tvg-logo="" group-title="General Streams",FR | Gulli HD
+http://iptv4.ga:8080/live/france/france/3206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | BOING hd" tvg-logo="" group-title="General Streams",FR | BOING hd
+http://iptv4.ga:8080/live/france/france/3226.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | NICKELODEON TEEN" tvg-logo="" group-title="General Streams",FR | NICKELODEON TEEN
+http://iptv4.ga:8080/live/france/france/3195.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | NICKELODEON JR" tvg-logo="" group-title="General Streams",FR | NICKELODEON JR
+http://iptv4.ga:8080/live/france/france/3196.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DISNEY JUNIOR" tvg-logo="" group-title="General Streams",FR | DISNEY JUNIOR
+http://iptv4.ga:8080/live/france/france/3217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DISNEY CHANNEL" tvg-logo="" group-title="General Streams",FR | DISNEY CHANNEL
+http://iptv4.ga:8080/live/france/france/3218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | NAT GEO FHD" tvg-logo="" group-title="General Streams",FR | NAT GEO FHD
+http://iptv4.ga:8080/live/france/france/3198.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | NAT GEO WILD FHD" tvg-logo="" group-title="General Streams",FR | NAT GEO WILD FHD
+http://iptv4.ga:8080/live/france/france/3197.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DISCOVERY SCIENCE" tvg-logo="" group-title="General Streams",FR | DISCOVERY SCIENCE
+http://iptv4.ga:8080/live/france/france/3219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | DISCOVERY CHANNEL" tvg-logo="" group-title="General Streams",FR | DISCOVERY CHANNEL
+http://iptv4.ga:8080/live/france/france/3220.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CARTOON NETWORK" tvg-logo="" group-title="General Streams",FR | CARTOON NETWORK
+http://iptv4.ga:8080/live/france/france/3224.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | VOYAGE" tvg-logo="" group-title="General Streams",FR | VOYAGE
+http://iptv4.ga:8080/live/france/france/1210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | Ushuaia TV HD" tvg-logo="" group-title="General Streams",FR | Ushuaia TV HD
+http://iptv4.ga:8080/live/france/france/1218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SEASON" tvg-logo="" group-title="General Streams",FR | SEASON
+http://iptv4.ga:8080/live/france/france/1212.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PLANETE A&E" tvg-logo="" group-title="General Streams",FR | PLANETE A&E
+http://iptv4.ga:8080/live/france/france/1213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PLANETE  CI" tvg-logo="" group-title="General Streams",FR | PLANETE  CI
+http://iptv4.ga:8080/live/france/france/1214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PLANETE" tvg-logo="" group-title="General Streams",FR | PLANETE
+http://iptv4.ga:8080/live/france/france/1215.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | ANIMAUX" tvg-logo="" group-title="General Streams",FR | ANIMAUX
+http://iptv4.ga:8080/live/france/france/1217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | HISTOIRE HD" tvg-logo="" group-title="General Streams",FR | HISTOIRE HD
+http://iptv4.ga:8080/live/france/france/3205.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TOUTE L HISTOIRE HD" tvg-logo="" group-title="General Streams",FR | TOUTE L HISTOIRE HD
+http://iptv4.ga:8080/live/france/france/1211.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | RMC Decouverte HD" tvg-logo="" group-title="General Streams",FR | RMC Decouverte HD
+http://iptv4.ga:8080/live/france/france/3190.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TV BREIZH" tvg-logo="" group-title="General Streams",FR | TV BREIZH
+http://iptv4.ga:8080/live/france/france/1208.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | WARNER" tvg-logo="" group-title="General Streams",FR | WARNER
+http://iptv4.ga:8080/live/france/france/1209.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TEVA" tvg-logo="" group-title="General Streams",FR | TEVA
+http://iptv4.ga:8080/live/france/france/1207.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | TCM CINEMA" tvg-logo="" group-title="General Streams",FR | TCM CINEMA
+http://iptv4.ga:8080/live/france/france/1206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | SYFY" tvg-logo="" group-title="General Streams",FR | SYFY
+http://iptv4.ga:8080/live/france/france/1205.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | POLAR" tvg-logo="" group-title="General Streams",FR | POLAR
+http://iptv4.ga:8080/live/france/france/1203.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PARIS PREMIERE" tvg-logo="" group-title="General Streams",FR | PARIS PREMIERE
+http://iptv4.ga:8080/live/france/france/1202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PARAMOUNT DECALE" tvg-logo="" group-title="General Streams",FR | PARAMOUNT DECALE
+http://iptv4.ga:8080/live/france/france/1201.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | PARAMOUNT CHANNEL" tvg-logo="" group-title="General Streams",FR | PARAMOUNT CHANNEL
+http://iptv4.ga:8080/live/france/france/1200.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | COMEDIE" tvg-logo="" group-title="General Streams",FR | COMEDIE
+http://iptv4.ga:8080/live/france/france/1199.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE FAMIZ HD" tvg-logo="" group-title="General Streams",FR | CINE FAMIZ HD
+http://iptv4.ga:8080/live/france/france/3222.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE CLASSIC HD" tvg-logo="" group-title="General Streams",FR | CINE CLASSIC HD
+http://iptv4.ga:8080/live/france/france/3223.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE  PREMIER HD" tvg-logo="" group-title="General Streams",FR | CINE  PREMIER HD
+http://iptv4.ga:8080/live/france/france/1195.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE  FRISSON HD" tvg-logo="" group-title="General Streams",FR | CINE  FRISSON HD
+http://iptv4.ga:8080/live/france/france/1194.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE  EMOTION HD" tvg-logo="" group-title="General Streams",FR | CINE  EMOTION HD
+http://iptv4.ga:8080/live/france/france/1193.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CINE  CLUB" tvg-logo="" group-title="General Streams",FR | CINE  CLUB
+http://iptv4.ga:8080/live/france/france/1192.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CHASSE ET PECHE" tvg-logo="" group-title="General Streams",FR | CHASSE ET PECHE
+http://iptv4.ga:8080/live/france/france/1216.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CANAL SERIES HD" tvg-logo="" group-title="General Streams",FR | CANAL SERIES HD
+http://iptv4.ga:8080/live/france/france/1191.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CANAL  HD" tvg-logo="" group-title="General Streams",FR | CANAL  HD
+http://iptv4.ga:8080/live/france/france/1190.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CANAL  FAMILY HD" tvg-logo="" group-title="General Streams",FR | CANAL  FAMILY HD
+http://iptv4.ga:8080/live/france/france/1189.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | ALTICE STUDIO" tvg-logo="" group-title="General Streams",FR | ALTICE STUDIO
+http://iptv4.ga:8080/live/france/france/1198.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | ACTION" tvg-logo="" group-title="General Streams",FR | ACTION
+http://iptv4.ga:8080/live/france/france/1197.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | 13eme RUE" tvg-logo="" group-title="General Streams",FR | 13eme RUE
+http://iptv4.ga:8080/live/france/france/1196.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | BET" tvg-logo="" group-title="General Streams",FR | BET
+http://iptv4.ga:8080/live/france/france/1204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | INFOSPORT HD" tvg-logo="" group-title="General Streams",FR | INFOSPORT HD
+http://iptv4.ga:8080/live/france/france/3204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 1 HD (FR)" tvg-logo="" group-title="General Streams",FR: BEIN SPORTS 1 HD (FR)
+http://iptv4.ga:8080/live/france/france/709.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 2 HD (FR)" tvg-logo="" group-title="General Streams",FR: BEIN SPORTS 2 HD (FR)
+http://iptv4.ga:8080/live/france/france/710.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 3 HD (FR)" tvg-logo="" group-title="General Streams",FR: BEIN SPORTS 3 HD (FR)
+http://iptv4.ga:8080/live/france/france/711.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 1 HD (FR)" tvg-logo="" group-title="General Streams",FR: RMC Sport 1 HD (FR)
+http://iptv4.ga:8080/live/france/france/705.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 2 HD (FR)" tvg-logo="" group-title="General Streams",FR: RMC Sport 2 HD (FR)
+http://iptv4.ga:8080/live/france/france/706.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC Sport 3 HD (FR)" tvg-logo="" group-title="General Streams",FR: RMC Sport 3 HD (FR)
+http://iptv4.ga:8080/live/france/france/707.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC SPORT 4 (FR)" tvg-logo="" group-title="General Streams",FR: RMC SPORT 4 (FR)
+http://iptv4.ga:8080/live/france/france/708.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | FOOT 24/24 HD" tvg-logo="" group-title="General Streams",FR | FOOT 24/24 HD
+http://iptv4.ga:8080/live/france/france/3213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | CANAL  SPORT HD" tvg-logo="" group-title="General Streams",FR | CANAL  SPORT HD
+http://iptv4.ga:8080/live/france/france/3225.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | AB MOTEURS HD" tvg-logo="" group-title="General Streams",FR | AB MOTEURS HD
+http://iptv4.ga:8080/live/france/france/3228.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | EUROSPORT1 HD" tvg-logo="" group-title="General Streams",FR | EUROSPORT1 HD
+http://iptv4.ga:8080/live/france/france/3214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | EUROSPORT 2 HD" tvg-logo="" group-title="General Streams",FR | EUROSPORT 2 HD
+http://iptv4.ga:8080/live/france/france/3215.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR | Equidia Live" tvg-logo="" group-title="General Streams",FR | Equidia Live
+http://iptv4.ga:8080/live/france/france/3216.ts
